@@ -1,5 +1,5 @@
 ### Hey there 👋
-#### - My name is Rafael Sila 
+#### - My name is Rafael Silva 
 #### - I am a Full-Stack Software Engineer
 #### - My technology stack involves Javascript, SQL, React, node.js, express.js, HTML, CSS
 #### - I'm currently working on MindWisk project
