@@ -1,9 +1,9 @@
 ### Hello my name is Rafael
-I am a full-stack developer
-My technology stack involves Javascript, SQL, React, node.js, express.js, HTML, CSS
-I'm currently working on MindWisk project
-I like talking about code, self development, and the gym 
-You can reach me at rafsilva004@gmail.com
+#### I am a full-stack developer
+#### My technology stack involves Javascript, SQL, React, node.js, express.js, HTML, CSS
+#### I'm currently working on MindWisk project
+#### I like talking about code, self development, and the gym 
+#### You can reach me at rafsilva004@gmail.com
 
 <!--
 **rsilva04/rsilva04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
