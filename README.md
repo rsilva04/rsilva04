@@ -1,11 +1,3 @@
-### Hey there 👋
-#### - My name is Rafael Silva 
-#### - I am a Full-Stack Software Engineer
-#### - My technology stack involves Javascript, SQL, React, node.js, express.js, HTML, CSS
-#### - I'm currently working on MindWisk project
-#### - I like talking about code, self development, and the gym 
-#### - How to reach me: https://www.linkedin.com/in/rafael-silva1/
-
 
 <!--
 **rsilva04/rsilva04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
